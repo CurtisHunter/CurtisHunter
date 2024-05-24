@@ -8,6 +8,6 @@ Hello, my name is Curtis and I am a Data Scientist currently based in Bristol, U
 
 ## About me
 
-- 🔭 I’m currently working on GraphML projects in Python and R.
+- 🔭 I’m currently working on GraphML projects primarily in Python, R and SQL.
 - 🌱 I’m currently learning everything Machine Learning related.
 - 📫 How to reach me: https://www.linkedin.com/in/curtis-hunter-159868186
