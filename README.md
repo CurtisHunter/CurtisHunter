@@ -4,11 +4,11 @@ Hello, my name is Curtis and I am a Data Scientist currently based in Bristol, U
 
 ## End-to-End ML Projects (Deployed ML Models, Dashboards, Development Scripts etc):
 
-- 🎧📈 https://lastfmnetwork.streamlit.app/ | https://github.com/curtiscoding1/lastfm_graphml_dashboard
+- 🎧📈 https://lastfmnetwork.streamlit.app/ | https://github.com/CurtisHunter/lastfm_graphml_dashboard
 
 ## Other Projects:
 
-- 🛠️ Building ML Models from Scratch https://github.com/curtiscoding1/Models_From_Scratch
+- 🛠️ Building ML Models from Scratch https://github.com/CurtisHunter/Models_From_Scratch
   
 ## About me
 
