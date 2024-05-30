@@ -6,6 +6,10 @@ Hello, my name is Curtis and I am a Data Scientist currently based in Bristol, U
 
 - 🎧📈 https://lastfmnetwork.streamlit.app/ | https://github.com/curtiscoding1/lastfm_graphml_dashboard
 
+## Side Projects:
+
+- 🛠️ Building ML Models from Scratch https://github.com/curtiscoding1/Models_From_Scratch
+  
 ## About me
 
 - 🔭 I’m currently working on GraphML projects primarily in Python, R and SQL.
