@@ -5,6 +5,7 @@ Hello, my name is Curtis and I am a Data Scientist currently based in Bristol, U
 ## End-to-End ML Projects (Deployed ML Models, Dashboards, Development Scripts etc):
 
 - 🎧📈 https://lastfmnetwork.streamlit.app/ | https://github.com/CurtisHunter/lastfm_graphml_dashboard
+- https://zimmernumber.streamlit.app/ | https://github.com/CurtisHunter/zimmer_number/
 
 ## Other Projects:
 
