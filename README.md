@@ -2,6 +2,10 @@
 
 Hello, my name is Curtis and I am a Data Scientist currently based in Bristol, UK working for the Civil Service
 
+## Personal Website
+
+www.CurtisHunter.com
+
 ## End-to-End ML Projects (Deployed ML Models, Dashboards, Development Scripts etc):
 
 - 🎧 https://lastfmnetwork.streamlit.app/ | https://github.com/CurtisHunter/lastfm_graphml_dashboard
