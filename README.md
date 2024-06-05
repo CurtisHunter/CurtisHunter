@@ -10,10 +10,12 @@ www.CurtisHunter.com
 
 - 🎧 https://lastfmnetwork.streamlit.app/ | https://github.com/CurtisHunter/lastfm_graphml_dashboard
 - 🎥 https://zimmernumber.streamlit.app/ | https://github.com/CurtisHunter/zimmer_number/
+- https://ww2animated.streamlit.app/ | https://github.com/CurtisHunter/ww2viz
 
 ## Other Projects:
 
 - 🛠️ Building ML Models from Scratch https://github.com/CurtisHunter/Models_From_Scratch
+- Steel Plate Defect Prediction (Kaggle) https://github.com/CurtisHunter/steelplatedefect
   
 ## About me
 
