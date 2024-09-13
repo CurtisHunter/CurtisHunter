@@ -15,11 +15,7 @@ www.CurtisHunter.com
 ## Other Projects:
 
 - 🛠️ Building ML Models from Scratch https://github.com/CurtisHunter/Models_From_Scratch
-- ⚙️ Steel Plate Defect Prediction (Kaggle) https://github.com/CurtisHunter/steelplatedefect
-
-## Kaggle:
-
-https://www.kaggle.com/curtiscoding1
+- ⚙️ Kaggle Projects https://www.kaggle.com/curtiscoding1
   
 ## About me
 
