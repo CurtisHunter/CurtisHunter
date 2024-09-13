@@ -2,13 +2,9 @@
 
 Hello, my name is Curtis and I am a Data Scientist currently based in London, UK working for the Civil Service
 
-## Personal Website
+## Personal Website and Kaggle
 
-www.CurtisHunter.com
-
-## Kaggle
-
-https://www.kaggle.com/curtiscoding1
+www.CurtisHunter.com | www.Kaggle.com/CurtisCoding1
 
 ## End-to-End ML Projects (Deployed ML Models, Dashboards, Development Scripts etc)
 
