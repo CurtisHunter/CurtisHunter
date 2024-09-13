@@ -6,6 +6,10 @@ Hello, my name is Curtis and I am a Data Scientist currently based in London, UK
 
 www.CurtisHunter.com
 
+## Kaggle
+
+https://www.kaggle.com/curtiscoding1
+
 ## End-to-End ML Projects (Deployed ML Models, Dashboards, Development Scripts etc):
 
 - 🎧 https://lastfmnetwork.streamlit.app/ | https://github.com/CurtisHunter/lastfm_graphml_dashboard
@@ -15,7 +19,6 @@ www.CurtisHunter.com
 ## Other Projects:
 
 - 🛠️ Building ML Models from Scratch https://github.com/CurtisHunter/Models_From_Scratch
-- ⚙️ Kaggle Projects https://www.kaggle.com/curtiscoding1
   
 ## About me
 
