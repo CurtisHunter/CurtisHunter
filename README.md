@@ -10,13 +10,13 @@ www.CurtisHunter.com
 
 https://www.kaggle.com/curtiscoding1
 
-## End-to-End ML Projects (Deployed ML Models, Dashboards, Development Scripts etc):
+## End-to-End ML Projects (Deployed ML Models, Dashboards, Development Scripts etc)
 
 - 🎧 https://lastfmnetwork.streamlit.app/ | https://github.com/CurtisHunter/lastfm_graphml_dashboard
 - 🎥 https://zimmernumber.streamlit.app/ | https://github.com/CurtisHunter/zimmer_number/
 - 🪖 https://ww2animated.streamlit.app/ | https://github.com/CurtisHunter/ww2viz
 
-## Other Projects:
+## Other Projects
 
 - 🛠️ Building ML Models from Scratch https://github.com/CurtisHunter/Models_From_Scratch
   
