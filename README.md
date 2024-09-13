@@ -1,6 +1,6 @@
 ## Hi, I'm Curtis 👋
 
-Hello, my name is Curtis and I am a Data Scientist currently based in Bristol, UK working for the Civil Service
+Hello, my name is Curtis and I am a Data Scientist currently based in London, UK working for the Civil Service
 
 ## Personal Website
 
@@ -16,6 +16,10 @@ www.CurtisHunter.com
 
 - 🛠️ Building ML Models from Scratch https://github.com/CurtisHunter/Models_From_Scratch
 - ⚙️ Steel Plate Defect Prediction (Kaggle) https://github.com/CurtisHunter/steelplatedefect
+
+## Kaggle:
+
+https://www.kaggle.com/curtiscoding1
   
 ## About me
 
