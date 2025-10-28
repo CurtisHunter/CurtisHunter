@@ -15,6 +15,7 @@ www.CurtisHunter.com | www.Kaggle.com/CurtisCoding1
 ## Other Projects
 
 - 🛠️ Building ML Models from Scratch https://github.com/CurtisHunter/Models_From_Scratch
+- 🗎 CV Generator https://curts-cv-generator.vercel.app/
   
 ## About me
 
