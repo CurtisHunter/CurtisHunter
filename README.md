@@ -16,6 +16,7 @@ www.CurtisHunter.com | www.Kaggle.com/CurtisCoding1
 
 - 🛠️ Building ML Models from Scratch https://github.com/CurtisHunter/Models_From_Scratch
 - 🗎 CV Generator https://curts-cv-generator.vercel.app/
+- 🧠 Memory game https://film-memory-game.vercel.app/
   
 ## About me
 
