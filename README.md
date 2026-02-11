@@ -8,7 +8,7 @@ www.CurtisHunter.com | www.Kaggle.com/CurtisCoding1
 
 ## Web Development Projects
 
-- 🗎 CV Generator https://curts-cv-generator.vercel.app/
+- 📄 CV Generator https://curts-cv-generator.vercel.app/
 - 🧠 Memory game https://film-memory-game.vercel.app/
 - 🛒 Shop and landing page https://shopandlandingpage.vercel.app/
 
